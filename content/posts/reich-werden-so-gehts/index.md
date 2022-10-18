@@ -6,6 +6,8 @@ pinned = false
 image = "jason-leung-sayzxus1o3m-unsplash-1-3-.jpg"
 description = "Guter Job = Reich werden? Nein! \nDie folgenden Faktoren sind essenziell, also passt gut auf."
 +++
+![](jason-leung-sayzxus1o3m-unsplash-1-3-.jpg)
+
 **I﻿hr habt euch sicher auch schon einmal überlegt, wie es wäre reich zu sein oder sogar Millionär/in.**
 
 A﻿ber wie wir man überhaupt reich und auf welche Sachen und Faktoren muss man achten? Das wird euch in diesem Blogeintrag erklärt.
